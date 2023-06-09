@@ -4,7 +4,7 @@ I am a front-end React developer that skilled in developing interactive user int
 I am a passionate learner, self-developing, fond of innovations, prone to teamwork, believing that teamwork produces quality work and keeping it constantly updated.
 
 
-📱 React Native
+
 💻 HTML, CSS, JS, SCSS, BOOTSTARP
 
 <!--
